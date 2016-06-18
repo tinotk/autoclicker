@@ -1,5 +1,6 @@
 --Auto Clicker v1.0
 --by tinotk
+--Link to Original thread: http://ankulua.boards.net/thread/115/auto-clicker
 
 setImmersiveMode(true)
 
